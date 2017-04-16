@@ -1,0 +1,26 @@
+#wrapper {
+    min-width:1000px;
+}
+#email {
+    border: 0;
+    height:43px;
+    width:283px;
+    position: relative;
+    margin-top: -130px;
+    font-size: 15;
+    text-indent: 10px;
+}
+#password {
+    border: 0;
+    height:43px;
+    width:283px;
+    position: relative;
+    margin-top: -57px;
+    font-size: 20;
+    text-indent: 10px;
+}
+#loginform {
+    position: relative;
+    margin-top: 430px;
+    margin-left: 803px;
+}

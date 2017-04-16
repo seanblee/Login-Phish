@@ -1,0 +1,35 @@
+#image {
+    position: fixed;
+    margin-top: -0px;
+}
+#email {
+    border: 0;
+    height:43px;
+    width:283px;
+    position: fixed;
+    margin-top: -128px;
+    font-size: 15;
+    text-indent: 10px;
+}
+#password {
+    border: 0;
+    height:43px;
+    width:283px;
+    position: fixed;
+    margin-top: -55px;
+    font-size: 20;
+    text-indent: 10px;
+}
+#loginform {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: -59px;
+    margin-left: -149px;
+}
+#back{
+	position:fixed;
+	top:0;
+	left:50%;
+	margin-left:-960px;
+}
